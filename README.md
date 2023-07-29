@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharad1606&label=Profile%20views&color=0e75b6&style=flat" alt="sharad1606" /> </p>
 
 
-<h1 >👋 Hi , I'm Sharad Singh</h1>
+<h1 >👋 Hi, I'm Sharad Singh</h1>
 
 
 <h3 align="center">Aspiring Full Stack Developer having hands-on experience in projects using tech stacks HTML, CSS, JavaScript, Angular, ReactJS, NodeJS, Spring Boot and other libraries and frameworks.</h3>
