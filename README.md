@@ -8,7 +8,7 @@
 
 
 
-- 👨‍🎓 I am Trainee Associate, Solution Engineer at **Western Union**
+- 👨‍🎓 I am Senior Trainee Associate, Solution Engineer at **Western Union**
 
 - 🔭 I’m currently working on **Tibco Payment technology**
 
