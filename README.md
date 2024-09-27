@@ -3,8 +3,8 @@
 
 <h1 >👋 Hi, I'm Sharad Singh</h1>
 
-
-<h3 align="center">Aspiring Full Stack Developer having hands-on experience in projects using tech stacks HTML, CSS, JavaScript, Angular, ReactJS, NodeJS, Spring Boot, Python-Django and other libraries and frameworks.</h3>🧑‍💻
+🧑‍💻
+<h3 align="center">Aspiring Full Stack Developer having hands-on experience in projects using tech stacks HTML, CSS, JavaScript, Angular, ReactJS, NodeJS, Spring Boot, Python-Django and other libraries and frameworks.</h3>
 
 
 
