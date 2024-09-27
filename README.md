@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Tibco Payment technology**
 
-- 💬 Ask me about **JavaScript, CSS, Angular, Spring Boot & DSA etc**
+- 💬 Ask me about **RESTAPIs, GraphQL, MEAN, System Design, Spring Boot & DSA etc**
 
 - 📫 How to reach me **singhsharadkumar021@gmail.com**
 
