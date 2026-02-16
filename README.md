@@ -4,27 +4,32 @@
 <h1 >👋 Hi, I'm Sharad Singh</h1>
 
 🧑‍💻
-<h3 align="center">Aspiring Full Stack Developer having hands-on experience in projects using tech stacks HTML, CSS, JavaScript, Angular, ReactJS, NodeJS, Spring Boot, Python-Django and other libraries and frameworks.</h3>
+<h3 align="center">Detail-oriented and solutions-driven software engineer with 3+ years of experience designing, developing, and optimizing scalable backend and
+frontend systems using Tibco-BE, Java, Spring Boot, Angular, Oracle and MongoDB, AWS Services, Docker and Kubernetes. Proven track record in Agile teams delivering secure APIs,
+middleware solutions, and full-stack applications. Adept at collaborating with cross-functional teams and aligning software capabilities with
+business needs.</h3>
 
 
 
-- 👨‍🎓 I am Senior Trainee Associate, Solution Engineer at **Western Union**
+- 👨‍🎓 I am Junior Associate, Solution Engineer at **Western Union**
 
-- 🔭 I’m currently working on **Tibco Payment technology**
+- 🔭 I’m currently working on **Payment Technologies: Funds-IN**
 
 - 💬 Ask me about **RESTAPIs, GraphQL, MEAN, System Design, Spring Boot & DSA etc**
 
 - 📫 How to reach me **singhsharadkumar021@gmail.com**
 
-- ✨ Linkedin :
-  
-   [https://www.linkedin.com/in/sharad012/](https://www.linkedin.com/in/sharad012/)
 
   ✨ LeetCode :
   
    [https://leetcode.com/u/sharad01010202/](https://leetcode.com/u/sharad01010202/)
 
-- ⚡ **I am Web_Developer 😅**
+  - ✨ Linkedin :
+  
+   [https://www.linkedin.com/in/sharad012/](https://www.linkedin.com/in/sharad012/)
+
+
+- ⚡ **I'm Full Stack Java Developer**
 
  <hr></hr>
 <h3>Current Streak and Total Contributions :</h3>
