@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Sharad Singh</h1>
 
 <h3 align="center">
-Detail-oriented and solutions-driven software engineer with 3+ years of experience designing, developing, and optimizing scalable backend and frontend systems using Tibco-BE, Java, Spring Boot, Angular, Oracle and MongoDB, AWS Services, Docker and Kubernetes. Proven track record in Agile teams delivering secure APIs, middleware solutions, and full-stack applications. Adept at collaborating with cross-functional teams and aligning software capabilities with business needs.
+Detail-oriented and solutions-driven software engineer with 3+ years of experience designing, developing, and optimizing scalable backend and frontend systems using Java, Spring Boot, Angular, Oracle and MongoDB, AWS Services, Docker and Kubernetes. Proven track record in Agile teams delivering secure APIs, middleware solutions, and full-stack applications. Adept at collaborating with cross-functional teams and aligning software capabilities with business needs.
 </h3>
 
 ---
