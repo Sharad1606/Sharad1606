@@ -28,20 +28,6 @@ Detail-oriented and solutions-driven software engineer with 2.5+ years of experi
 
 ⚡ **Full Stack Java Developer**
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharad1606&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharad1606&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharad1606&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
