@@ -40,8 +40,12 @@ Full‑stack Java Developer with 2.5+ years of experience building scalable back
 ## 🌐 Connect With Me
 
 <div align="left">
-<a href="https://linkedin.com/in/sharad012" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://medium.com/@singhsharadkumar021" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sharad012" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="70" />
+</a>
+<a href="https://medium.com/@singhsharadkumar021" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="70" />
+</a>
 </div>
 
 <hr>
