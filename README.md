@@ -11,7 +11,7 @@ Detail-oriented and solutions-driven software engineer with 2.5+ years of experi
 ---
 
 ### 👨‍🎓 Current Role
-- Junior Associate, Solution Engineer at **Western Union**
+- Software Engineer at **Western Union**
 - Working on **Payment Technologies: Funds-IN**
 
 ### 🔧 Expertise
