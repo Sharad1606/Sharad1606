@@ -1,24 +1,24 @@
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sharad1606&label=Profile%20views&color=0e75b6&style=flat" alt="sharad1606" /> 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=sharad1606&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
 <h1 align="center">👋 Hi, I'm Sharad Singh</h1>
 
 <h3 align="center">
-Detail-oriented and solutions-driven software engineer with 2.5+ years of experience designing, developing, and optimizing scalable backend and frontend systems using Java, Spring Boot, Angular, Oracle and MongoDB, AWS Services, Docker and Kubernetes. Proven track record in Agile teams delivering secure APIs, middleware solutions, and full-stack applications. Adept at collaborating with cross-functional teams and aligning software capabilities with business needs.
+Detail‑oriented and solutions‑driven Software Engineer with 2.5+ years of experience designing, developing, and optimizing scalable backend and frontend systems using Java, Spring Boot, Angular, React.js, Oracle, MongoDB, AWS, Docker, and Kubernetes. Proven track record in Agile teams delivering secure APIs, middleware solutions, and full‑stack applications. Adept at collaborating with cross‑functional teams and aligning software capabilities with business needs.
 </h3>
 
 ---
 
 ### 👨‍🎓 Current Role
 - Software Engineer at **Western Union**
-- Working on **Payment Technologies: Funds-IN**
+- Working on **Payment Technologies: Funds‑IN**
 
 ### 🔧 Expertise
 - REST APIs & GraphQL  
 - System Design & Architecture  
 - Spring Boot & Microservices  
-- MEAN Stack Development  
+- MEAN / MERN Stack Development  
 - Data Structures & Algorithms  
 
 ### 📫 Reach Me
@@ -27,7 +27,6 @@ Detail-oriented and solutions-driven software engineer with 2.5+ years of experi
 - ✨ [LinkedIn](https://www.linkedin.com/in/sharad012/)  
 
 ⚡ **Full Stack Java Developer**
-
 
 ---
 
@@ -40,24 +39,25 @@ Detail-oriented and solutions-driven software engineer with 2.5+ years of experi
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/sharad012" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://medium.com/@singhsharadkumar021" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sharad012" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@singhsharadkumar021" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
 </p>
 
 ---
 
 ## 🛠️ Languages and Tools
-  <p align="center"> 
-  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></a>
+<p align="center"> 
+  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></a>&nbsp;
+  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>&nbsp;
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>&nbsp;
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>&nbsp;
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></a>&nbsp;
   <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
 </p>
+
 ---
 
 ## 🎉 Fun
