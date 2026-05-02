@@ -50,9 +50,6 @@ Full‑stack Java Developer with 2.5+ years of experience building scalable back
 
 <hr>
 
-## 🛠️ Languages and Tools
-<hr>
-
 <h3 align="left">🛠️ Languages & Frameworks</h3>
 <div align="left">
 <a href="https://www.java.com" target="_blank">
