@@ -5,20 +5,20 @@
 <h1 align="center">👋 Hi, I'm Sharad Singh</h1>
 
 <h3 align="center">
-Detail‑oriented and solutions‑driven Software Engineer with 2.5+ years of experience designing, developing, and optimizing scalable backend and frontend systems using Java, Spring Boot, Angular, React.js, Oracle, MongoDB, AWS, Docker, and Kubernetes. Proven track record in Agile teams delivering secure APIs, middleware solutions, and full‑stack applications. Adept at collaborating with cross‑functional teams and aligning software capabilities with business needs.
+Full‑stack Java Developer with 2.5+ years of experience building scalable backend and frontend systems using Java, Spring Boot, React.js, Angular, Oracle, MongoDB, AWS, Docker, and Kubernetes. Proven expertise in designing secure APIs, middleware solutions, and intuitive dashboards. Skilled at collaborating in Agile teams and aligning technology with business needs.
 </h3>
 
 ---
 
 ### 👨‍🎓 Current Role
 - Software Engineer at **Western Union**
-- Working on **Payment Technologies: Funds‑IN**
+- Focused on **Payment Technologies: Funds‑IN**
 
 ### 🔧 Expertise
 - REST APIs & GraphQL  
 - System Design & Architecture  
 - Spring Boot & Microservices  
-- MEAN / MERN Stack Development  
+- React.js / Angular Frontend Development  
 - Data Structures & Algorithms  
 
 ### 📫 Reach Me
