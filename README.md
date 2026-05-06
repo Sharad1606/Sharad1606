@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Sharad Singh</h1>
 
 <h3 align="center">
-Full‑stack Java Developer with 2.5+ years of experience building scalable backend and frontend systems using Java, Spring Boot, React.js, Angular, Oracle, MongoDB, AWS, Docker, and Kubernetes. Proven expertise in designing secure APIs, middleware solutions, and intuitive dashboards. Skilled at collaborating in Agile teams and aligning technology with business needs.
+Full‑stack Java Developer with 3.5+ years of experience building scalable backend and frontend systems using Java, Spring Boot, Angular, React.js, Oracle, MongoDB, AWS, Docker, and Kubernetes. Proven expertise in designing secure APIs, middleware solutions, and intuitive dashboards. Skilled at collaborating in Agile teams and aligning technology with business needs.
 </h3>
 
 <hr>
@@ -17,7 +17,7 @@ Full‑stack Java Developer with 2.5+ years of experience building scalable back
 ### 🔧 Expertise
 - REST APIs & GraphQL  
 - System Design & Architecture  
-- Spring Boot & Microservices  
+- Spring Boot-3.0, Hibernate-6.0 & Microservices  
 - React.js / Angular Frontend Development  
 - Data Structures & Algorithms  
 
